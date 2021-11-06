@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "Node project example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolfed/todo-app.git"
+  },
+  "keywords": [
+    "Learn"
+  ],
+  "author": "Danniel Rolfe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rolfed/todo-app/issues"
+  },
+  "homepage": "https://github.com/rolfed/todo-app#readme"
+}
